@@ -1,0 +1,12 @@
+C:\Users\admin.ONCOLOGY\Documents\Eclipse Scripting API\Projects\AcurosStructure\debug\AcurosStructure.esapi.dll
+C:\Users\admin.ONCOLOGY\Documents\Eclipse Scripting API\Projects\AcurosStructure\debug\AcurosStructure.esapi.pdb
+C:\Users\admin.ONCOLOGY\Documents\Eclipse Scripting API\Projects\AcurosStructure\obj\x64\Debug\AcurosStructure.csprojAssemblyReference.cache
+C:\Users\admin.ONCOLOGY\Documents\Eclipse Scripting API\Projects\AcurosStructure\obj\x64\Debug\AcurosStructure.csproj.CoreCompileInputs.cache
+C:\Users\admin.ONCOLOGY\Documents\Eclipse Scripting API\Projects\AcurosStructure\obj\x64\Debug\AcurosStructure.esapi.dll
+C:\Users\admin.ONCOLOGY\Documents\Eclipse Scripting API\Projects\AcurosStructure\obj\x64\Debug\AcurosStructure.esapi.pdb
+Z:\Für Alle\Physik-Skripte\PublishedScripts_ESAPI16\Projekte\AcurosStructure\debug\AcurosStructure.esapi.dll
+Z:\Für Alle\Physik-Skripte\PublishedScripts_ESAPI16\Projekte\AcurosStructure\debug\AcurosStructure.esapi.pdb
+Z:\Für Alle\Physik-Skripte\PublishedScripts_ESAPI16\Projekte\AcurosStructure\obj\x64\Debug\AcurosStructure.csprojAssemblyReference.cache
+Z:\Für Alle\Physik-Skripte\PublishedScripts_ESAPI16\Projekte\AcurosStructure\obj\x64\Debug\AcurosStructure.csproj.CoreCompileInputs.cache
+Z:\Für Alle\Physik-Skripte\PublishedScripts_ESAPI16\Projekte\AcurosStructure\obj\x64\Debug\AcurosStructure.esapi.dll
+Z:\Für Alle\Physik-Skripte\PublishedScripts_ESAPI16\Projekte\AcurosStructure\obj\x64\Debug\AcurosStructure.esapi.pdb
